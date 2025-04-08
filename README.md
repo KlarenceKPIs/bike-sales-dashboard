@@ -35,10 +35,10 @@ Key columns:
 ![Dashboard Preview](https://github.com/KlarenceKPIs/bike-sales-dashboard/blob/main/bike-sales-dashboard-screenshot.png)
 
 ## 📁 Files in This Repo
-- `sales dashboard.pbix` – Power BI dashboard file
+- `bike sales.pbix` – Power BI dashboard file
 - `Sales Data.xlsx` – Source dataset
 - `README.md` – This file
-- `screenshot/` – Dashboard image
+- `bike-sales-dashboard-screenshot/` – Dashboard image
 
 ---
 
