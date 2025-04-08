@@ -32,7 +32,7 @@ Key columns:
 - Excel (for data source and minor transformations)
 
 ## 🖼️ Preview
-![Dashboard Preview](screenshots/bike-sales-dashboard.png)
+![Dashboard Preview](https://github.com/klrxnx/bike-sales-dashboard/blob/main/bike-sales-dashboard-screenshot.png)
 
 ## 📁 Files in This Repo
 - `dashboard.pbix` – Power BI dashboard file
