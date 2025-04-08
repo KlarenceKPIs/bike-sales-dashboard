@@ -39,7 +39,6 @@ Key columns:
 - `Sales Data.xlsx` – Source dataset
 - `README.md` – This file
 - `screenshot/` – Dashboard image
-- `dashboard-demo.mp4` *link* – Walkthrough of the dashboard
 
 ---
 
